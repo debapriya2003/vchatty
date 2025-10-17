@@ -1,6 +1,7 @@
 # Core dependencies
 streamlit
 streamlit-webrtc
+websockets
 
 # WebRTC and media processing
 aiortc
